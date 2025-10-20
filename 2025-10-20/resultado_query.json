@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "rm": "321",
+        "nome": "Pedro",
+        "curso": "ADS",
+        "turma": "1TDSPU"
+    },
+    {
+        "id": 1,
+        "rm": "754",
+        "nome": "João",
+        "curso": "ADS",
+        "turma": "1TDSPG"
+    }
+]
